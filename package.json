@@ -39,7 +39,7 @@
 		"request": "2.88.2",
 		"sprintf": "0.1.5",
 		"temp": "0.9.4",
-		"winston": "2.4.5",
+		"winston": "2.4.6",
 		"yauzl": "^2.10.0"
 	},
 	"devDependencies": {
